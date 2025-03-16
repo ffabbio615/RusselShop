@@ -1,5 +1,12 @@
-# RusselShop
+# React + Vite
 
-Teste enviado por uma empresa na qual me candidatei para uma vaga de estágio. O objetivo foi reproduzir com fidelidade o que foi apresentado pela empresa no arquivo exportado em Figma. Link para o protótipo: https://www.figma.com/proto/cj9TwkNd1KvksS5XSbwl0U/TESTE---Russel-Servi%C3%A7os?node-id=2-3&starting-point-node-id=2%3A3
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Nele eu pude aplicar o que vim estudando nesses últimos meses. Possui ações simples, mas pude reforçar o conceito de responsividade e o uso do Router em React para redirecionamentos de páginas. Utilizei HMTL, CSS (SASS), Javascript e React Router com Hooks para exibição dos detalhes dos itens em outra página.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
